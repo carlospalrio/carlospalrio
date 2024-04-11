@@ -1,0 +1,4 @@
+﻿  Rutina.cpp
+D:\SSD1\M5\PracticaLIBRERIOA\StaticRutina\RutinaLibreria\Rutina.cpp(41): warning C4715: 'MathLibrary::Funciones::Sport': no todas las rutas de acceso de control devuelven un valor
+D:\SSD1\M5\PracticaLIBRERIOA\StaticRutina\RutinaLibreria\Rutina.cpp(22): warning C4715: 'MathLibrary::Funciones::TMB': no todas las rutas de acceso de control devuelven un valor
+  RutinaLibreria.vcxproj -> D:\SSD1\M5\PracticaLIBRERIOA\StaticRutina\x64\Debug\RutinaLibreria.lib
