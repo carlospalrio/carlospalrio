@@ -1,0 +1,4 @@
+﻿  EjemploUF3.cpp
+C:\Users\carlospalrio\Downloads\EjemploUF3\EjemploUF3\EjemploUF3\EjemploUF3.cpp(33,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\carlospalrio\Downloads\EjemploUF3\EjemploUF3\EjemploUF3\EjemploUF3.cpp(45,63): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  EjemploUF3.vcxproj -> C:\Users\carlospalrio\Downloads\EjemploUF3\EjemploUF3\x64\Debug\EjemploUF3.exe
